@@ -1,1 +1,3 @@
 # Espaco_lazer
+Site responsivo no qual se adapta a qualquer tipo de dispositivo removível...
+Home Page para divulgação de um espaço reservado para lazer e diversão.
